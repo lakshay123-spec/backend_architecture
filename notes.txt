@@ -1,0 +1,7 @@
+object document mapping      mongoose 
+                             features 
+                             schema
+                             object to json   
+
+
+     dot env  - enviornmental vairables ko hard dis se ram mein process ke enviornmental variable mein daa;te hain                          
